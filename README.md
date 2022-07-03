@@ -3,7 +3,7 @@
 ### Using AHK
 
 - [x] [IsDebuggerPresent](/src/IsDebuggerPresent.ahk)
-- [ ] CheckRemoteDebuggerPresent
+- [X] [CheckRemoteDebuggerPresent](/src/CheckRemoteDebuggerPresent.ahk)
 - [ ] TLSCallback
 - [ ] FindWindow  (class)
 - [ ] Process
